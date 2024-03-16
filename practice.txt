@@ -1,2 +1,5 @@
-Hola
+Hola.
 Soy Guillermo.
+Tengo 24 años.
+
+Nací en Colombia.
